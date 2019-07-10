@@ -48,6 +48,7 @@ Note (m.u.) is shorthand for *monetary units*.
 7) `Channel`: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)
 8) `Region`: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal) 
 
+## Project describtion 
 1) This project is intended to segmenting different users for an organization.
 2) I created the unsupervised model to perform the segmentation process using python and sklearn.
 3) The model obtained an accuracy above 86%.
